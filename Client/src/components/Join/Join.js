@@ -20,7 +20,7 @@ const App = () => {
           <button className='button mt-20' type="submit">Sign In</button>
         </Link>
       </div>
-    </div>
+    </div> 
   );
 }
 
